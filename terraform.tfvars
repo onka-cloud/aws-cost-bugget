@@ -1,0 +1,5 @@
+company = "onkatec"
+env     = "prod"
+region  = "eu-central-1"
+name    = "${var.company}-${var.env}-cost-bugget"
+email   = "yucel@onkatec"
