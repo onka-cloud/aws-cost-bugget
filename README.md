@@ -3,7 +3,6 @@
 
 # terraform init
 
-moduleAşağıdaki örnekte gösterildiği gibi, gerekli verileri blokta sağlayarak modülü yapılandırın .
 
 # terraform apply
 

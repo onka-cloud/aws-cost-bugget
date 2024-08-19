@@ -25,3 +25,9 @@ variable "name" {
   type        = string
   default     = ""
 }
+
+variable "amount" {
+  description = "Name of the env."
+  type        = nummer
+  default     = null
+}
