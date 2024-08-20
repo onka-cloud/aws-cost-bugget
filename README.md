@@ -36,9 +36,11 @@ Basitten karmaşığa maliyet ve kullanım takibini etkinleştirmek için AWS B�
 
 ## Resources
 
+<<<<<<< HEAD
 | Name | Type |
 |------|------|
 | [aws_budgets_budget.main](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/budgets_budget) | resource |
+=======
 
 ## Inputs
 

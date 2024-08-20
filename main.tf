@@ -4,7 +4,7 @@ module "minimum_example" {
   source = "../../../ONKATEC-TEAM/MODULES/module-terraform-aws-budget"
   name              = var.name
   budget_type       = "COST"
-  limit_amount      = "300"
+  limit_amount      = var.amount
   limit_unit        = "USD"
   time_unit         = "MONTHLY"
   time_period_start = "2023-01-01_00:00"

@@ -1,5 +1,7 @@
-company = "onkatec"
-env     = "prod"
+company = "tourlogic"
+env     = "management"
 region  = "eu-central-1"
 name    = "${var.company}-${var.env}-cost-bugget"
-email   = "yucel@onkatec"
+amount  = "302" 
+email   = "omer@onkatec.com"
+

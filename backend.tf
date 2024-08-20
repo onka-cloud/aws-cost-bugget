@@ -1,8 +1,8 @@
 terraform {
   backend "s3" {
-    bucket          = "onkatec-terraform-states"
-    key             = "onkatec-iam-identity-center-service"
-    profile         = "onkatec-prod"
+    bucket          = "tourlogic-terraform-states"
+    key             = "tourlogic-aws-cost-bugget"
+    profile         = "tourlogic-management"
     region          = "eu-central-1"
     dynamodb_table  = "terraform_states"
     encrypt         = true
